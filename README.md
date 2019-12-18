@@ -20,3 +20,6 @@ The test is inside div tags so we could apply all formats that it has now.
 
 ### Contact
 The contact page has the same menu and footer as the homepage, but instead of text and image, it has the forms to capture the user's message when contacting me.
+
+### Portfolio
+The Portfolio page is formed by containers that include the card container created to have the image and the text image. All of them are using the relative position and the text image has been created using the absolute position to be located on the botto, of each image.
